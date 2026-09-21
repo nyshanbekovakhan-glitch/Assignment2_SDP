@@ -107,7 +107,7 @@ The SmartHomeClient does not need to be changed. This allows the whole product f
 
 # Abstract Factory UML
 
-![Abstract Factory Output](abstract-factory-output.png)
+![Abstract Factory Output](abstract-factory-uml.png)
 
 # Benefits of Abstract Factory
 
