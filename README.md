@@ -107,7 +107,7 @@ The SmartHomeClient does not need to be changed. This allows the whole product f
 
 # Abstract Factory UML
 
-![Abstract Factory Output](images/abstract-factory-output.png)
+![Abstract Factory Output](abstract-factory-output.png)
 
 # Benefits of Abstract Factory
 
@@ -239,13 +239,13 @@ FactoryMethodDemo can be run to test the Factory Method.
 
 The output is:
 
-![Google Factory Output](images/factory-method-output.png)
+![Google Factory Output](factory-method-output.png)
 
 AbstractFactoryDemo can be run to test the Abstract Factory.
 
 When the Apple family is selected, the output is:
 
-![Google Factory Output](images/abstract-factory-output.png)
+![Google Factory Output](abstract-factory-output.png)
 
 # Conclusion
 
