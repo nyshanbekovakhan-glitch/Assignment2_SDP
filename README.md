@@ -30,7 +30,7 @@ The client does not directly create SmartLamp, SmartThermostat or SmartCamera. T
 
 # Factory Method UML
 
-![Factory Method UML](images/factory-method-uml.png)
+![Factory Method UML](factory-method-uml.png)
 
 # When to use Factory Method
 
